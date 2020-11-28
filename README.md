@@ -1,4 +1,5 @@
 # App Inventor Dockerized for offline-LAN
+app inventor 本地版本，感谢分享
 
 This repository contains a ready-to-use Dockerfile to help you build an [AppInventor](https://appinventor.mit.edu) docker image you can run offline in a LAN.
 
